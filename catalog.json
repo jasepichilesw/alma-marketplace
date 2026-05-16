@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-05-16T16:30:00Z",
+  "updated": "2026-05-16T20:00:00Z",
   "skills": [
     {
       "id": "chef_cuentos",
@@ -12,6 +12,94 @@
       "sizeKb": 3,
       "downloadUrl": "https://github.com/jasepichilesw/alma-marketplace/releases/download/marketplace-v1/chef_cuentos.alma",
       "sha256": "a68aa4861520321f13caa71349a6fb816a5bdccfd17c8d3ea1ff2b24f52ae78b"
+    },
+    {
+      "id": "eval_english",
+      "name": "Evaluador de Inglés (CEFR)",
+      "description": "Cuestionario adaptativo de hasta 20 preguntas para determinar tu nivel de inglés (A1-C2) y recomendar qué skill activar después.",
+      "version": "1.0",
+      "author": "Alma Demo",
+      "priceUsd": 0.0,
+      "sizeKb": 3,
+      "downloadUrl": "https://github.com/jasepichilesw/alma-marketplace/releases/download/marketplace-v1/eval_english.alma",
+      "sha256": "988219eafeca2ceb5b4f2bc0f190d987974043a7d216c1164dc7a305165f2cd3"
+    },
+    {
+      "id": "english_level_a",
+      "name": "Inglés Nivel A (A1-A2)",
+      "description": "Tutor de inglés para principiantes. Vocabulario básico, presente simple, oraciones cortas. Habla principalmente en español.",
+      "version": "1.0",
+      "author": "Alma Demo",
+      "priceUsd": 0.0,
+      "sizeKb": 3,
+      "downloadUrl": "https://github.com/jasepichilesw/alma-marketplace/releases/download/marketplace-v1/english_level_a.alma",
+      "sha256": "dd5e20b682b6890d5daff1105ccd7de324741490078897625b7eba46385d8f89"
+    },
+    {
+      "id": "english_level_b",
+      "name": "Inglés Nivel B (B1-B2)",
+      "description": "Tutor de inglés intermedio. Conversación cotidiana, present perfect, condicionales. Habla 70% en inglés.",
+      "version": "1.0",
+      "author": "Alma Demo",
+      "priceUsd": 0.0,
+      "sizeKb": 3,
+      "downloadUrl": "https://github.com/jasepichilesw/alma-marketplace/releases/download/marketplace-v1/english_level_b.alma",
+      "sha256": "43678925950c08a1489f872950994f5860273dbcbc76ae02e487c521c389478b"
+    },
+    {
+      "id": "english_level_c",
+      "name": "Inglés Nivel C (C1-C2)",
+      "description": "Native-like English tutor. Subjunctive, hedging language, register-switching, debate. Conversation entirely in English.",
+      "version": "1.0",
+      "author": "Alma Demo",
+      "priceUsd": 0.0,
+      "sizeKb": 3,
+      "downloadUrl": "https://github.com/jasepichilesw/alma-marketplace/releases/download/marketplace-v1/english_level_c.alma",
+      "sha256": "47ab92f5f6143c9cb97741626e1f5f1fb25c3ff4a0cfdc0e863406420766f641"
+    },
+    {
+      "id": "eval_italian",
+      "name": "Evaluador de Italiano (CEFR)",
+      "description": "Cuestionario adaptativo de hasta 20 preguntas para determinar tu nivel de italiano (A1-C2) y recomendar qué skill activar después.",
+      "version": "1.0",
+      "author": "Alma Demo",
+      "priceUsd": 0.0,
+      "sizeKb": 3,
+      "downloadUrl": "https://github.com/jasepichilesw/alma-marketplace/releases/download/marketplace-v1/eval_italian.alma",
+      "sha256": "65420c601a6c604b18b368e87491d0b9b531e7eaf04695b77a7407df52f96b7e"
+    },
+    {
+      "id": "italian_level_a",
+      "name": "Italiano Nivel A (A1-A2)",
+      "description": "Tutor de italiano para principiantes. Presente indicativo, articoli, vocabulario familia/casa. Habla principalmente en español.",
+      "version": "1.0",
+      "author": "Alma Demo",
+      "priceUsd": 0.0,
+      "sizeKb": 3,
+      "downloadUrl": "https://github.com/jasepichilesw/alma-marketplace/releases/download/marketplace-v1/italian_level_a.alma",
+      "sha256": "19308ff813c08ce924f9a3ce856a5849244abd2fd25ff4e9c05d799c8ff158f4"
+    },
+    {
+      "id": "italian_level_b",
+      "name": "Italiano Nivel B (B1-B2)",
+      "description": "Tutor d'italiano intermedio. Imperfetto, congiuntivo presente, condizionale, periodo ipotetico básico. Parla 70% in italiano.",
+      "version": "1.0",
+      "author": "Alma Demo",
+      "priceUsd": 0.0,
+      "sizeKb": 3,
+      "downloadUrl": "https://github.com/jasepichilesw/alma-marketplace/releases/download/marketplace-v1/italian_level_b.alma",
+      "sha256": "784f821d4f8e83addd4e46f29489fc3c106a742ecc89a668e5fe901ffeea32c7"
+    },
+    {
+      "id": "italian_level_c",
+      "name": "Italiano Nivel C (C1-C2)",
+      "description": "Tutor d'italiano native-like. Congiuntivo trapassato, periodo ipotetico irreale, idiomi avanzati, dibattito. Conversazione interamente in italiano.",
+      "version": "1.0",
+      "author": "Alma Demo",
+      "priceUsd": 0.0,
+      "sizeKb": 4,
+      "downloadUrl": "https://github.com/jasepichilesw/alma-marketplace/releases/download/marketplace-v1/italian_level_c.alma",
+      "sha256": "a3da48bb0fc9e428a921d964794a6e3d668d7ada1f3329678b77f6a3f6be8c7c"
     }
   ],
   "packs": [
