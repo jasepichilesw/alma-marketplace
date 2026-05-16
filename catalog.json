@@ -1,6 +1,31 @@
 {
-    "version": 1,
-    "updated": "2026-05-15T00:00:00Z",
-    "skills": [],
-    "packs": []
-  }
+  "version": 1,
+  "updated": "2026-05-16T16:30:00Z",
+  "skills": [
+    {
+      "id": "chef_cuentos",
+      "name": "Chef de Cuentos",
+      "description": "Cuentacuentos para niños 4-10 años. Crea cuentos cortos con valores positivos y final feliz. Usa nombres del Soul para protagonistas.",
+      "version": "1.0",
+      "author": "Alma Demo",
+      "priceUsd": 0.0,
+      "sizeKb": 3,
+      "downloadUrl": "https://github.com/jasepichilesw/alma-marketplace/releases/download/marketplace-v1/chef_cuentos.alma",
+      "sha256": "a68aa4861520321f13caa71349a6fb816a5bdccfd17c8d3ea1ff2b24f52ae78b"
+    }
+  ],
+  "packs": [
+    {
+      "id": "recetas_chile",
+      "name": "Recetas Chilenas Tradicionales",
+      "description": "20 recetas tradicionales chilenas con ingredientes y pasos: cazuela, pastel de choclo, empanadas, sopaipillas, charquicán, mote con huesillo, picarones, calzones rotos y más.",
+      "version": "1.0",
+      "author": "Alma Demo",
+      "priceUsd": 0.0,
+      "sizeMb": 0.004,
+      "language": "es",
+      "downloadUrl": "https://github.com/jasepichilesw/alma-marketplace/releases/download/marketplace-v1/recetas_chile.almapack",
+      "sha256": "42ccb25bf4dd0a697f84b7fa082d1f463b97d5e01c006f45c331dab07b212150"
+    }
+  ]
+}
