@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-05-16T20:00:00Z",
+  "updated": "2026-05-17T00:00:00Z",
   "skills": [
     {
       "id": "chef_cuentos",
@@ -8,10 +8,12 @@
       "description": "Cuentacuentos para niños 4-10 años. Crea cuentos cortos con valores positivos y final feliz. Usa nombres del Soul para protagonistas.",
       "version": "1.0",
       "author": "Alma Demo",
+      "category": "Niños",
+      "subcategory": "Cuentos",
       "priceUsd": 0.0,
-      "sizeKb": 3,
+      "sizeKb": 4,
       "downloadUrl": "https://github.com/jasepichilesw/alma-marketplace/releases/download/marketplace-v1/chef_cuentos.alma",
-      "sha256": "a68aa4861520321f13caa71349a6fb816a5bdccfd17c8d3ea1ff2b24f52ae78b"
+      "sha256": "06b209de2d02b81b46c3502c4608c7498bd58da9a662107fb749da9b9b5c5684"
     },
     {
       "id": "eval_english",
@@ -19,10 +21,12 @@
       "description": "Cuestionario adaptativo de hasta 20 preguntas para determinar tu nivel de inglés (A1-C2) y recomendar qué skill activar después.",
       "version": "1.0",
       "author": "Alma Demo",
+      "category": "Educación",
+      "subcategory": "Idiomas",
       "priceUsd": 0.0,
       "sizeKb": 3,
       "downloadUrl": "https://github.com/jasepichilesw/alma-marketplace/releases/download/marketplace-v1/eval_english.alma",
-      "sha256": "988219eafeca2ceb5b4f2bc0f190d987974043a7d216c1164dc7a305165f2cd3"
+      "sha256": "7c50db96a3e7f8371f95639c3cc9808e35c641b9a0026f0d02f8e7542bc4dc8c"
     },
     {
       "id": "english_level_a",
@@ -30,10 +34,12 @@
       "description": "Tutor de inglés para principiantes. Vocabulario básico, presente simple, oraciones cortas. Habla principalmente en español.",
       "version": "1.0",
       "author": "Alma Demo",
+      "category": "Educación",
+      "subcategory": "Idiomas",
       "priceUsd": 0.0,
       "sizeKb": 3,
       "downloadUrl": "https://github.com/jasepichilesw/alma-marketplace/releases/download/marketplace-v1/english_level_a.alma",
-      "sha256": "dd5e20b682b6890d5daff1105ccd7de324741490078897625b7eba46385d8f89"
+      "sha256": "7f3910e24eab3161251ceb57ccbf3279085d21257753325b36b38a17b8fd6a1e"
     },
     {
       "id": "english_level_b",
@@ -41,10 +47,12 @@
       "description": "Tutor de inglés intermedio. Conversación cotidiana, present perfect, condicionales. Habla 70% en inglés.",
       "version": "1.0",
       "author": "Alma Demo",
+      "category": "Educación",
+      "subcategory": "Idiomas",
       "priceUsd": 0.0,
       "sizeKb": 3,
       "downloadUrl": "https://github.com/jasepichilesw/alma-marketplace/releases/download/marketplace-v1/english_level_b.alma",
-      "sha256": "43678925950c08a1489f872950994f5860273dbcbc76ae02e487c521c389478b"
+      "sha256": "9e09b85b80ce5ab866123dd5b86976126e4c11196ef1dd51ba81ce20909c9b75"
     },
     {
       "id": "english_level_c",
@@ -52,10 +60,12 @@
       "description": "Native-like English tutor. Subjunctive, hedging language, register-switching, debate. Conversation entirely in English.",
       "version": "1.0",
       "author": "Alma Demo",
+      "category": "Educación",
+      "subcategory": "Idiomas",
       "priceUsd": 0.0,
       "sizeKb": 3,
       "downloadUrl": "https://github.com/jasepichilesw/alma-marketplace/releases/download/marketplace-v1/english_level_c.alma",
-      "sha256": "47ab92f5f6143c9cb97741626e1f5f1fb25c3ff4a0cfdc0e863406420766f641"
+      "sha256": "e55cdb06f42c7e6a74713ad25b3a392b790a2b90a7025ffe6f689f0467c9d9d8"
     },
     {
       "id": "eval_italian",
@@ -63,10 +73,12 @@
       "description": "Cuestionario adaptativo de hasta 20 preguntas para determinar tu nivel de italiano (A1-C2) y recomendar qué skill activar después.",
       "version": "1.0",
       "author": "Alma Demo",
+      "category": "Educación",
+      "subcategory": "Idiomas",
       "priceUsd": 0.0,
       "sizeKb": 3,
       "downloadUrl": "https://github.com/jasepichilesw/alma-marketplace/releases/download/marketplace-v1/eval_italian.alma",
-      "sha256": "65420c601a6c604b18b368e87491d0b9b531e7eaf04695b77a7407df52f96b7e"
+      "sha256": "4051ef5d0e7b240fb348bbfda69d459c8767dd1c4f3db5b3470d0d772ad36d51"
     },
     {
       "id": "italian_level_a",
@@ -74,10 +86,12 @@
       "description": "Tutor de italiano para principiantes. Presente indicativo, articoli, vocabulario familia/casa. Habla principalmente en español.",
       "version": "1.0",
       "author": "Alma Demo",
+      "category": "Educación",
+      "subcategory": "Idiomas",
       "priceUsd": 0.0,
       "sizeKb": 3,
       "downloadUrl": "https://github.com/jasepichilesw/alma-marketplace/releases/download/marketplace-v1/italian_level_a.alma",
-      "sha256": "19308ff813c08ce924f9a3ce856a5849244abd2fd25ff4e9c05d799c8ff158f4"
+      "sha256": "9d7e23e3120d3a6f92c1d8a7acd359c9df261da109e5916453426918e7f840c7"
     },
     {
       "id": "italian_level_b",
@@ -85,10 +99,12 @@
       "description": "Tutor d'italiano intermedio. Imperfetto, congiuntivo presente, condizionale, periodo ipotetico básico. Parla 70% in italiano.",
       "version": "1.0",
       "author": "Alma Demo",
+      "category": "Educación",
+      "subcategory": "Idiomas",
       "priceUsd": 0.0,
       "sizeKb": 3,
       "downloadUrl": "https://github.com/jasepichilesw/alma-marketplace/releases/download/marketplace-v1/italian_level_b.alma",
-      "sha256": "784f821d4f8e83addd4e46f29489fc3c106a742ecc89a668e5fe901ffeea32c7"
+      "sha256": "4037de00f537c386d7838cbd3f5b511ee97e3f87f3aa92dddbadc1dbe503e0be"
     },
     {
       "id": "italian_level_c",
@@ -96,10 +112,12 @@
       "description": "Tutor d'italiano native-like. Congiuntivo trapassato, periodo ipotetico irreale, idiomi avanzati, dibattito. Conversazione interamente in italiano.",
       "version": "1.0",
       "author": "Alma Demo",
+      "category": "Educación",
+      "subcategory": "Idiomas",
       "priceUsd": 0.0,
       "sizeKb": 4,
       "downloadUrl": "https://github.com/jasepichilesw/alma-marketplace/releases/download/marketplace-v1/italian_level_c.alma",
-      "sha256": "a3da48bb0fc9e428a921d964794a6e3d668d7ada1f3329678b77f6a3f6be8c7c"
+      "sha256": "8ab8c6615d61cb25a8a4738378e4f5e55c392b1b7cc8957b19001fe6155b8fee"
     }
   ],
   "packs": [
@@ -109,11 +127,13 @@
       "description": "20 recetas tradicionales chilenas con ingredientes y pasos: cazuela, pastel de choclo, empanadas, sopaipillas, charquicán, mote con huesillo, picarones, calzones rotos y más.",
       "version": "1.0",
       "author": "Alma Demo",
+      "category": "Cocina",
+      "subcategory": "Recetas chilenas",
       "priceUsd": 0.0,
       "sizeMb": 0.004,
       "language": "es",
       "downloadUrl": "https://github.com/jasepichilesw/alma-marketplace/releases/download/marketplace-v1/recetas_chile.almapack",
-      "sha256": "42ccb25bf4dd0a697f84b7fa082d1f463b97d5e01c006f45c331dab07b212150"
+      "sha256": "f550417e1d6acb68fb58b6f819ebfa498615ed5ab7e6e7f3bf670a4abd3dac25"
     }
   ]
 }
