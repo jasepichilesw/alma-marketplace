@@ -1,6 +1,6 @@
 {
-  "version": 3,
-  "updated": "2026-05-24T00:00:00Z",
+  "version": 4,
+  "updated": "2026-05-25T00:00:00Z",
   "skills": [
     {
       "id": "chef_cuentos",
@@ -124,16 +124,16 @@
     {
       "id": "recetas_chile",
       "name": "Recetas Chilenas Tradicionales",
-      "description": "76 recetas tradicionales chilenas con ingredientes, cantidades y pasos numerados: cazuelas, sopas, fondos de carne/ave/pescado, mariscos, guisos, postres, bebidas, pan, sandwich y comidas regionales (Norte, Centro, Sur, Chiloé).",
-      "version": "1.2",
+      "description": "162 recetas tradicionales chilenas (v1.3 expandido): entradas, sopas, fondos carne/pescado, mariscos, guisos, humitas, pastas, arroz, postres, bebidas, pan, fast food, regional Norte/Sur, Chilota, conservas, vegana, sin gluten, para niños.",
+      "version": "1.3",
       "author": "Alma Demo",
       "category": "Cocina",
       "subcategory": "Recetas chilenas",
       "priceUsd": 0.0,
-      "sizeMb": 0.0115,
+      "sizeMb": 0.0208,
       "language": "es",
       "downloadUrl": "https://github.com/jasepichilesw/alma-marketplace/releases/download/marketplace-v1/recetas_chile.almapack",
-      "sha256": "d9c012568a7659018d3f8fefe7a09b20823698f266c81352ae8ffd9e2eced91e"
+      "sha256": "9b5b0890f7e6a66b32def03518f228297a0c7d16dfd589f66418137a710e69ee"
     },
     {
       "id": "nch_construccion",
