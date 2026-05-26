@@ -1,6 +1,6 @@
 {
-  "version": 4,
-  "updated": "2026-05-25T00:00:00Z",
+  "version": 5,
+  "updated": "2026-05-25T01:00:00Z",
   "skills": [
     {
       "id": "chef_cuentos",
@@ -138,16 +138,16 @@
     {
       "id": "nch_construccion",
       "name": "Normativa NCh Construcción",
-      "description": "80 chunks sobre normativa técnica chilena para inspección de obra: NCh 433 sísmica, NCh 170 hormigón, NCh 204 acero, NCh 853 térmica, NCh 1079 acústica, NCh 2369 industrial, NCh 3322 accesibilidad, NCh Elec 4, OGUC, patologías, ensayos, recepción municipal.",
-      "version": "1.2",
+      "description": "155 chunks técnicos NCh + OGUC + ITO (v1.3 expandido): NCh 433/1537/170/204/853/1079/2369/3322 + NCh Elec 4 + gas + OGUC + ITO + patologías + ensayos materiales + hormigón pretensado + eficiencia energética + excavaciones + andamios + cubiertas.",
+      "version": "1.3",
       "author": "Alma Demo",
       "category": "Profesional",
       "subcategory": "Construcción",
       "priceUsd": 0.0,
-      "sizeMb": 0.0127,
+      "sizeMb": 0.0232,
       "language": "es",
       "downloadUrl": "https://github.com/jasepichilesw/alma-marketplace/releases/download/marketplace-v1/nch_construccion.almapack",
-      "sha256": "6d6434a041352e50ca7c1e4bfc8e5f4705866eab8c5660f35219ad206d06c21a"
+      "sha256": "d1b1baf27119c2f391295e2ca98289be92780c1bba2c6fab1abba9849da4e353"
     },
     {
       "id": "derecho_laboral_cl",
